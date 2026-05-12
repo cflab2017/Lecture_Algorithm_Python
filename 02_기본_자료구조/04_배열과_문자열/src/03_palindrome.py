@@ -99,7 +99,8 @@ if __name__ == "__main__":
         " ",
     ]
     for s in alphanums:
-        print(f"{s!r[:35]:37} -> {is_palindrome_alphanumeric(s)}")
+        short = repr(s)[:35]
+        print(f"{short:37} -> {is_palindrome_alphanumeric(s)}")
 
     print()
     print("=" * 50)
