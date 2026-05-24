@@ -1,5 +1,9 @@
 # 파이썬 알고리즘 & 자료구조 강의
 
+> 🌐 **전체 29편 강의 보기** — [https://coding-now.com/blog/algorithm](https://coding-now.com/blog/algorithm)
+>
+> 한국어 무료 알고리즘·자료구조 강의 29편 (백준 골드 목표) · Coding Now
+
 > 백준 골드 수준 · 프로그래머스 Lv.3 · 코딩 테스트 합격을 목표로 하는 파이썬 알고리즘 완성 커리큘럼
 >
 > Python 3.10+ 전용 · PEP 8 준수 · 모든 예제 시간·공간 복잡도 명시
